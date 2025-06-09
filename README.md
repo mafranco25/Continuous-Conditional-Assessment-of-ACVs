@@ -9,3 +9,6 @@ The repository contains jupyter notebooks which form part of the Final Year Proj
 2. DataPreparation WW - data imputation for Woodland Way
 3. AnalyticalPipeline_SL - fault detection & diagnosis pipeline for Stoke Lane
 4. AnalyticalPipeline_WW - fault detection & diagnosis pipeline for Woodland Way
+
+The data files which this analysis is built upon can be accessed via:
+https://imperiallondon-my.sharepoint.com/:f:/g/personal/mmb121_ic_ac_uk/EvwkBVhVGpVGlEyenmiAFHAB4xuYMx86tHLVchBV_W0zAw?e=AJ47Hc 
